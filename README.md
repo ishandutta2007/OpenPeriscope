@@ -70,9 +70,6 @@ Docs by @cjhbtn, actualized by me: http://static.pmmlabs.ru/OpenPeriscope
 1. jQuery Spoiler https://github.com/le717/jquery-spoiler
 1. Split.js https://github.com/nathancahill/Split.js
 
-### Donate
-Buy me a beer: [paypal.me/pmmlabs](https://paypal.me/pmmlabs)
-
 ### Support:
 
 If you want the good work to continue please support us on
